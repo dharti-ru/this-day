@@ -1,0 +1,53 @@
+.nightly-reflection {
+    max-width: 600px;
+    margin: 2rem auto;
+    padding: 1.5rem;
+    font-family: sans-serif;
+    background: #fefefe;
+    border-radius: 12px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+  }
+  
+  .reflection-section {
+    margin-bottom: 1.5rem;
+  }
+  
+  label {
+    display: block;
+    font-weight: bold;
+    margin-bottom: 0.5rem;
+  }
+  
+  textarea {
+    width: 100%;
+    padding: 0.75rem;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    font-size: 1rem;
+    resize: vertical;
+    box-sizing: border-box;
+  }
+  
+  .save-btn {
+    background-color: #6c63ff;
+    color: white;
+    padding: 0.75rem 1.5rem;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    font-weight: bold;
+  }
+  
+  .save-btn:hover {
+    background-color: #574fd6;
+  }
+
+  .side-note {
+    color: #9c9c9c;
+    font-size: 14px;
+}
+.thank-you-msg {
+    margin-top: 1rem;
+    font-weight: bold;
+    color: #4b0082;
+  }
